@@ -34,7 +34,7 @@ grafeas:
     # Database username
     user: "grafeas"
     # Database password
-    password: "changeme"
+    password: "grafeas"
     # Valid sslmodes disable, allow, prefer, require, verify-ca, verify-full.
     # See https://www.postgresql.org/docs/current/static/libpq-connect.html for details
     sslmode: "disable"
